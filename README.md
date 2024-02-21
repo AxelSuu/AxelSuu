@@ -1,4 +1,4 @@
-My name is Axel and i am studying enginnering physics.
+My name is Axel and i am studying applied physics and electrical engineering.
 
 <!--
 **AxelSuu/AxelSuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
