@@ -1,14 +1,20 @@
-# Hello, my name is Axel Sundqvist
+<h1 align="center"> Hello, my name is Axel Sundqvist</h1>
 
-## 🔥 About Me
+<h3> 🔥 About Me</h3>
+
 - 🎮 Indie Pygame Game Developer
 - 💻 Studying Applied Physics and Electrical Engineering
 
-## 📌 My Tech Stack
+<h3>📌 My Tech Stack</h3>
+
+<div>
 
 ![Pygame](https://img.shields.io/badge/Pygame-00979D?style=for-the-badge&logo=python&logoColor=white)
 
-## Get in Touch with me
+</div>
+
+<h3> Get in Touch with me </h3>
+
 - LinkedIn: https://www.linkedin.com/in/axel-sundqvist/
 
 Let's connect and collaborate! 🚀
