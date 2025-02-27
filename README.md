@@ -1,7 +1,7 @@
 # Hello, my name is Axel Sundqvist
 
 ## 🔥 About Me
-- 🎮 Inde Pygame Game Developer
+- 🎮 Indie Pygame Game Developer
 - 💻 Studying Applied Physics and Electrical Engineering
 
 ## 📌 My Tech Stack
