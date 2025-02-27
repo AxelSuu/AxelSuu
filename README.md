@@ -1,4 +1,17 @@
-### My name is Axel Sundqvist and I study at LIU
+# Hello, my name is Axel Sundqvist
+
+## 🔥 About Me
+- 🎮 Inde Pygame Game Developer
+- 💻 Studying Applied Physics and Electrical Engineering
+
+## 📌 My Tech Stack
+
+![Pygame](https://img.shields.io/badge/Pygame-00979D?style=for-the-badge&logo=python&logoColor=white)
+
+## Get in Touch with me
+- LinkedIn: https://www.linkedin.com/in/axel-sundqvist/
+
+Let's connect and collaborate! 🚀
 
 <!--
 **AxelSuu/AxelSuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
