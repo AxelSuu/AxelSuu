@@ -19,11 +19,8 @@
 
 </div>
 
-<h3> Get in Touch with me </h3>
+<h3> Let's connect and collaborate! 🚀</h3>
 
-- LinkedIn: https://www.linkedin.com/in/axel-sundqvist/
-
-Let's connect and collaborate! 🚀
 
 <!--
 **AxelSuu/AxelSuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
