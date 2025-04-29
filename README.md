@@ -7,7 +7,7 @@
 
 <h3>📌 My Tech Stack</h3>
 
-<div>
+<div align="center">
 
 ![Pygame](https://img.shields.io/badge/Pygame-00979D?style=for-the-badge&logo=python&logoColor=white)
 ![Numpy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -15,11 +15,6 @@
 ![XLlsWriter](https://img.shields.io/badge/XlsxWriter-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-
-
-</div>
-
-<h3> Let's connect and collaborate! 🚀</h3>
 
 
 <!--
