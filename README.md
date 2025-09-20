@@ -2,9 +2,9 @@
 
 <h3> 🔥 About Me</h3>
 
-- 🎮 Indie Pygame Game Developer
-- ⚡ Interested in Communications and Signal Processing
-- 💻 Studying Applied Physics and Electrical Engineering
+- Indie Pygame Game Developer
+- Interested in Communications and Signal Processing
+- Studying Applied Physics and Electrical Engineering
 
 <h3>📌 My Tech Stack</h3>
 
@@ -16,7 +16,7 @@
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![XLlsWriter](https://img.shields.io/badge/XlsxWriter-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 
 <!--
