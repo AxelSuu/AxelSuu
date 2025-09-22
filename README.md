@@ -1,9 +1,5 @@
 <h1 align="center"> Hello, my name is Axel Sundqvist</h1>
 
-<h3> 🔥 About Me</h3>
-
-- Indie Pygame Game Developer
-- Interested in Communications and Signal Processing
 - Studying Applied Physics and Electrical Engineering
 
 <h3>📌 My Tech Stack</h3>
