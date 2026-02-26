@@ -6,7 +6,7 @@
 ## About Me
 
 My focus is designing sensor driven embedded systems that perform 
-on device estimation, detection, statistical inference and networking.
+on device estimation, statistical inference and networking.
 I also work with a Deepseek V3 fork for model development in PyTorch. I enjoy implementing complete systems and working on many layers.
 
 ---
