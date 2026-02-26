@@ -1,19 +1,13 @@
 <h1 align="center">Axel Sundqvist</h1>
 <h3 align="center">M.Sc. Student in Applied Physics & Electrical Engineering</h3>
 
-<p align="center">
-• Embedded Systems • Communications/Networking • Statistical Inference
-</p>
-
 ---
 
 ## About Me
 
-I focus on designing sensor driven embedded systems that perform 
-on device estimation, detection, statistical inference, networking.
-I also work with a Deepseek V3 fork for model development in PyTorch
-
-I enjoy implementing complete systems and working on many layers.
+My focus is designing sensor driven embedded systems that perform 
+on device estimation, detection, statistical inference and networking.
+I also work with a Deepseek V3 fork for model development in PyTorch. I enjoy implementing complete systems and working on many layers.
 
 ---
 
