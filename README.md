@@ -5,7 +5,7 @@
 
 ## About Me
 
-My focus is designing sensor driven embedded systems that perform 
+im currently designing sensor driven embedded systems that perform 
 on device estimation, statistical inference and networking.
 I also work with a Deepseek V3 fork for model development in PyTorch. I enjoy implementing complete systems and working on many layers.
 
@@ -28,30 +28,3 @@ I also work with a Deepseek V3 fork for model development in PyTorch. I enjoy im
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   
 </p>
-
----
-
-## Academic Background
-
-### Mathematics
-Fourier Analysis & Distribution Theory  
-Complex Analysis  
-Honours Linear Algebra  
-Probability Theory  
-Mathematical Statistics  
-Scientific Computing  
-Optimization  
-Vector Analysis  
-
-### Electrical Engineering
-Signals and Systems  
-Automatic Control  
-Information & Communications Engineering  
-Computer Architecture  
-Systems Engineering (B.Sc. Project)
-
-### Physics
-Analytical Mechanics  
-Statistical Mechanics & Thermodynamics  
-Electromagnetic Wave Theory  
-
